@@ -77,6 +77,39 @@
 
 # 웹사이트 UI 및 핵심기능
 
+## 메인화면
+
+![메인화면.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6535ed9e-0e85-4187-b432-163116b06b3a/메인화면.png)
+
+## 회원가입
+
+![회원가입.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7070e22c-12e2-4fb0-a7bc-3e3a30714b96/회원가입.png)
+
+## 로그인
+
+![로그인.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1702ca9d-a790-4b3f-9498-e6bc8b5a7e26/로그인.png)
+
+## 신규페이지
+
+![신규페이지.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92c16871-0350-44a7-980d-22db127e5d06/신규페이지.png)
+
+## 인기페이지
+
+![인기페이지.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ec79b26-07f3-460d-a1d4-c9922cb55115/인기페이지.png)
+
+## 게시물 상세페이지
+
+![상세페이지.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38e850ca-3b31-4d7c-b0f4-95c633c51cd0/상세페이지.png)
+
+## 게시물 작성페이지
+
+![게시물 작성.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de344a44-d116-40e2-8a59-bda7bf094a6c/게시물_작성.png)
+
+## 게시물 수정페이지
+
+![수정화면.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ea7cc39-2dfb-4b19-aa45-ec12f03e4abc/수정화면.png)
+
+
 - 로그인 기능 및 쿠키관리
 - 쇼핑몰과 같은 CRUD 기능
 - Axios 요청받은 데이터 state 로 관리
