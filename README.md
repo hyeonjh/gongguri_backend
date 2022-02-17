@@ -3,7 +3,7 @@
 
 웹주소 : http://act99.shop.s3-website.ap-northeast-2.amazonaws.com/
 노션 : https://www.notion.so/14712e27d1534e638f6b8b0b391b036b
-
+# 공구리 (공동구매 울타리) 
 
 # 프로젝트 소개
 
