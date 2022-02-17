@@ -1,7 +1,8 @@
 # gongguri_backend
 항해99 미니프로젝트 1주차 백엔드 JAVA SPRING
+
 웹주소 : http://act99.shop.s3-website.ap-northeast-2.amazonaws.com/
-https://www.notion.so/14712e27d1534e638f6b8b0b391b036b
+노션 : https://www.notion.so/14712e27d1534e638f6b8b0b391b036b
 
 
 # 프로젝트 소개
