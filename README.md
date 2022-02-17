@@ -65,7 +65,7 @@
 
 # ERD
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fbf535f-e178-4149-a403-599b94128f82/Untitled.png)
+![image](https://user-images.githubusercontent.com/97426920/154442659-f35e694b-4077-49a0-9d62-4cf849a45e5e.png)
 
 # API 설계
 
