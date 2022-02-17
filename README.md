@@ -27,7 +27,7 @@
 
 # 기술 스택 및 개발 환경
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c392927-c652-4640-b3f7-43835894def7/Untitled.png)
+![image](https://user-images.githubusercontent.com/97426920/154443232-0f185a9d-7b78-4863-af54-5e9ee95ab06e.png)
 
 `Front-end`
 
