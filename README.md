@@ -69,35 +69,9 @@
 
 # API 설계
 
-# ***** 로그인 요청
+![image](https://user-images.githubusercontent.com/97426920/154443062-ee529125-1f1a-467b-9fd8-3d95cfc1460f.png)
+![image](https://user-images.githubusercontent.com/97426920/154443124-f72f6637-2f7f-45ef-b975-9d58633ea1e4.png)
 
-[***** 회원가입](https://www.notion.so/58e0a5eaac1745879d959cb3a9dd39ac)
-
-[***** 로그인 여부 확인](https://www.notion.so/e99246eed2e04690af4597c56ba19056)
-
-[***** 로그아웃](https://www.notion.so/bff4968f4ce8401dadfcba5f5c4f29d7)
-
-[***** 게시글 작성](https://www.notion.so/80ac6f74763143daa9e8d3fe5580b770)
-
-[**** 게시글 수정](https://www.notion.so/7633a910483f48ac81fc23d84c8e748b)
-
-[**** 게시글 삭제](https://www.notion.so/0f0e0e6bd2dd441eb3a1a6766948c08c)
-
-[***** 모든 게시글
-조회](https://www.notion.so/c4bdfdcf9596435d95e1463e41431fcc)
-
-[**** 내가 작성한 게시글
-조회](https://www.notion.so/9175a0b04f2a4cefb3ca2fb3511df7f0)
-
-[**** 내가 공동구매 신청한 글 조회](https://www.notion.so/d71b5ef0e5434a3a8b60b4e65ca3ded0)
-
-[**** 공동구매신청하기 / 취소](https://www.notion.so/66589bf26c2c4bb98d6dae7685aa51aa)
-
-[** 댓글 작성](https://www.notion.so/097aced016ae44c5ada37f51ccd06d32)
-
-[** 댓글 삭제](https://www.notion.so/feeb1d4e0117484d8203deaf411fa2c1)
-
-[**댓글 조회](https://www.notion.so/bebdfbac69104a46894894b7b2384ab0)
 
 # 트러블 슈팅
 
