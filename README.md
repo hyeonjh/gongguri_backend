@@ -84,5 +84,6 @@
 - 댓글 기능
 
 # 홈페이지 시연 동영상
+https://youtu.be/UE5gH6yw7fg
 
 # 프로젝트 후기
